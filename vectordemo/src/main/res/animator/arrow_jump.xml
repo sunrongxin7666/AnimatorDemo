@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:androd="http://schemas.android.com/apk/res/android">
+    <objectAnimator
+        androd:duration="500"
+        androd:interpolator="@android:interpolator/overshoot"
+        androd:propertyName="translateY"
+        androd:repeatCount="infinite"
+        androd:repeatMode="reverse"
+        androd:valueFrom="0"
+        androd:valueTo="-3"
+        androd:valueType="floatType"
+        >
+    </objectAnimator>
+</set>

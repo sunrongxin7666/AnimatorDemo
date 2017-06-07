@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:androd="http://schemas.android.com/apk/res/android">
+    <objectAnimator
+        androd:duration="5000"
+        androd:propertyName="fillColor"
+        androd:repeatCount="infinite"
+        androd:repeatMode="reverse"
+        androd:valueFrom="@android:color/black"
+        androd:valueTo="@android:color/darker_gray"
+        androd:valueType="intType">
+    </objectAnimator>
+</set>

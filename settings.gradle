@@ -1,0 +1,1 @@
+include ':animatordemo', ':vectordemo', ':bezierdemo'//':app', ':mspsdk', ':sdksample', ':jobqueueapplication', ':handlerthreaddemo', ':webview2jsdemo'
